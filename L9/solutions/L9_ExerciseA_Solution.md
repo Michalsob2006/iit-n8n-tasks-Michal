@@ -1,0 +1,6 @@
+![alt text](L9_ExerciseA_1.png)
+![alt text](L9_ExerciseA_2.png)
+![alt text](L9_ExerciseA_3.png)
+![alt text](L9_ExerciseA_4.png)
+![alt text](L9_ExerciseA_5.png)
+![alt text](L9_ExerciseA_6.png)
